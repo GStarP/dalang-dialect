@@ -15,12 +15,14 @@
 
 - 出处
   - 时间：2020.01.01
+  - 人物：XX
   - 事件：XX在YY时说AAAA
 - 含义
   - 表示XX对YY感到CC
   - 也可以表示XX感到DD
 - 例句
-  - YY太AAAA了
+  - P1: YY太AAAA了
+  - P2: 确实
 ```
 
 ### Commit 规范
